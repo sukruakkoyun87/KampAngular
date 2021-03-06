@@ -9,5 +9,7 @@ export class AppComponent {
   title = 'northwind';
   user: string = 'Şükrü Akkoyun';
 
+
+
   
 }
